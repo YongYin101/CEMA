@@ -1,6 +1,6 @@
 # Towards Robust and Efficient Cloud-Edge Elastic Model Adaptation via Selective Entropy Distillation
 
-This is the official project repository for [Towards Robust and Efficient Cloud-Edge Elastic Model Adaptation via Selective Entropy Distillation](https://openreview.net/forum?id=vePdNU3u6n) [ICLR 2024], Authors: Yaofo Chen, Shuaicheng Niu, Yaowei Wang, Shoukai Xu, Hengjie Song, Mingkui Tan
+This is a personal fork of the official project repository for [Towards Robust and Efficient Cloud-Edge Elastic Model Adaptation via Selective Entropy Distillation](https://openreview.net/forum?id=vePdNU3u6n) [ICLR 2024], Authors: Yaofo Chen, Shuaicheng Niu, Yaowei Wang, Shoukai Xu, Hengjie Song, Mingkui Tan
 
 **Dependencies Installation**:
 
